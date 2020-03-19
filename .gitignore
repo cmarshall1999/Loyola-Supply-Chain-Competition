@@ -2,5 +2,5 @@
 Loyola 2nd Annual Data Competition - Shipper Data Set (Trailing 2-Years).xlsx
 ~$e March 23rd - Full set of Questions.docx
 Loyola 2nd Annual Data Competition - Shipper Data Set (Trailing 2-Years).xlsx
-.DS_Store
-.ipynb_checkpoints
+*.DS_Store
+*.ipynb_checkpoints
